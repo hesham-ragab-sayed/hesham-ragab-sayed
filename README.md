@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hesham 👋
 
-<!--
-**hesham-ragab-sayed/hesham-ragab-sayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into the cybersecurity field, building my technical foundation through the Google Cybersecurity Professional Certificate.
 
-Here are some ideas to get you started:
+I bring a background in aviation customer service and tourism operations, and I currently work in a Spanish-speaking support role at TaskUs. Handling high-pressure situations and troubleshooting issues on the fly taught me how to stay calm under stress and communicate clearly—skills I'm now applying to security analysis and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on**
+I'm using this GitHub space to document my hands-on labs and track my progress. Right now, I'm actively learning and practicing:
+* Linux command line & system logs analysis
+* SQL for database querying and security auditing
+* Network traffic analysis (Wireshark)
+* Security frameworks and controls (NIST, CIA Triad)
+
+**Languages**
+* Arabic (Native)
+* English (Fluent)
+* Spanish (B2) - Great for bilingual or international work environments.
+
+**Portfolio Projects**
+*[Coming soon: Documented labs and incident reports from my ongoing studies]*
