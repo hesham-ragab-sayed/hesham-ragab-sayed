@@ -1,11 +1,11 @@
 # Hi, I'm Hesham 👋
 
-I'm currently transitioning into the cybersecurity field, building my technical foundation through the Google Cybersecurity Professional Certificate.
+Right now, I'm shifting gears into the cybersecurity field. I'm working my way through the Google Cybersecurity Professional Certificate to get my hands dirty with the technical side of things.
 
-I bring a background in aviation customer service and tourism operations, and I currently work in a Spanish-speaking support role at TaskUs. Handling high-pressure situations and troubleshooting issues on the fly taught me how to stay calm under stress and communicate clearly—skills I'm now applying to security analysis and incident response.
+Before jumping into tech, I spent time in aviation customer service and tourism—and I'm currently handling Spanish-speaking support over at TaskUs. Dealing with angry customers and fixing logistics on the fly taught me how to keep a cool head when things go wrong. Now, I'm finally taking those problem-solving skills and following my actual passion—diving into tech and cybersecurity where I can put my real strengths to work.
 
-**What I'm working on**
-I'm using this GitHub space to document my hands-on labs and track my progress. Right now, I'm actively learning and practicing:
+**What I'm up to**
+I created this GitHub space to keep track of my labs and show what I’m capable of doing. Recently I’ve been focusing on:
 * Linux command line & system logs analysis
 * SQL for database querying and security auditing
 * Network traffic analysis (Wireshark)
@@ -17,4 +17,5 @@ I'm using this GitHub space to document my hands-on labs and track my progress. 
 * Spanish (B2) - Great for bilingual or international work environments.
 
 **Portfolio Projects**
-*[Coming soon: Documented labs and incident reports from my ongoing studies]*
+- [Botium Toys Internal Security Audit](https://github.com/hesham-ragab-sayed/hesham-ragab-sayed/blob/main/Controls%20and%20compliance%20checklist.pdf)
+  *Ran a full internal security audit for a fast-growing retail company. I checked how they stacked up against PCI DSS and GDPR rules, spotted some major gaps in data protection and user access, and mapped out exactly what they needed to fix.*
