@@ -19,3 +19,6 @@ I created this GitHub space to keep track of my labs and show what I’m capable
 **Portfolio Projects**
 - [Botium Toys Internal Security Audit](https://github.com/hesham-ragab-sayed/hesham-ragab-sayed/blob/main/Controls%20and%20compliance%20checklist.pdf)
   *Ran a full internal security audit for a fast-growing retail company. I checked how they stacked up against PCI DSS and GDPR rules, spotted some major gaps in data protection and user access, and mapped out exactly what they needed to fix.*
+
+- [Network Incident Report: DNS Traffic Analysis](https://github.com/hesham-ragab-sayed/hesham-ragab-sayed/blob/main/Incident%20Response%20Report.pdf)
+  *Investigated a simulated network outage by analyzing tcpdump logs. Diagnosed a DNS service failure and drafted a corporate-level incident report detailing the root cause and troubleshooting steps.*
